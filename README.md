@@ -14,3 +14,6 @@ Neste projeto eu aprendi
 - integraçao do django com o docker
 - integraçao com django e mysql e sqlite
 
+
+link do video
+https://www.youtube.com/watch?v=VT68Q4bh8GU&t=115s
